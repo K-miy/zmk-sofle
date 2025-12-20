@@ -85,7 +85,7 @@
 &trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans           &trans           &trans           &trans           &trans
             >;
 
-            display-name = "layer2";
+            display-name = "BT+Num";
         };
 
         RGB {
@@ -97,7 +97,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans           &rgb_ug RGB_TOG  &trans  &trans  &trans
             >;
 
-            display-name = "layer3";
+            display-name = "RGB";
         };
     };
 };
